@@ -3,8 +3,8 @@ hash = {}
 hash
 end
 
-def actor(name)
-hash = {name: name}
+def actor(act)
+hash = {:name act}
 hash
 end
 
