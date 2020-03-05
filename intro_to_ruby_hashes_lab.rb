@@ -29,4 +29,4 @@ def monopoly_with_fourth_tier
 end
 
 obj = {name: "test"}
-puts actor()
+puts actor(obj)
