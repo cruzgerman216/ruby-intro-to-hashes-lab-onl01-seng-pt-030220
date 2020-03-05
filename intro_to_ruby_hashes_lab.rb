@@ -3,8 +3,8 @@ hash = {}
 hash
 end
 
-def actor(actor)
-hash = actor
+def actor(para)
+hash = para
 hash["name"]
 end
 
@@ -27,3 +27,6 @@ def monopoly_with_fourth_tier
 	#copy and past the monopoly hash you build in the previous method. We're going to add stuff to it here!
 
 end
+
+obj = {name: "test"}
+puts actor()
