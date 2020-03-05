@@ -4,7 +4,6 @@ hash
 end
 
 def actor(para)
-hash = {name: "Dwayne The Rock Johnson"}
 hash[:name] = "Dwayne The Rock Johnson"
 end
 
