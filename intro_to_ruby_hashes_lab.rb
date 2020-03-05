@@ -4,7 +4,7 @@ hash
 end
 
 def actor(act)
-hash = {name: act}
+hash[:name] = act
 hash
 end
 
