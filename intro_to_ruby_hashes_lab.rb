@@ -4,6 +4,7 @@ hash
 end
 
 def actor
+	hash = {}
 hash[:name] = "Dwayne The Rock Johnson"
 end
 
