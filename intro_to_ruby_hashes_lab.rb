@@ -4,8 +4,8 @@ hash
 end
 
 def actor(para)
-hash = para
-hash.name
+hash = {name: "Dwayne The Rock Johnson"}
+hash[:name]
 end
 
 def monopoly
@@ -28,5 +28,4 @@ def monopoly_with_fourth_tier
 
 end
 
-obj = {name: "test"}
-puts actor(obj)
+
