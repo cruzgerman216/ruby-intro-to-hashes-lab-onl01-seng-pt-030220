@@ -3,8 +3,9 @@ hash = {}
 hash
 end
 
-def actor
-hash[:name]
+def actor(actor)
+hash = actor
+hash["name"]
 end
 
 def monopoly
