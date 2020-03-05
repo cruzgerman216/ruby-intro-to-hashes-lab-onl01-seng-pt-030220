@@ -5,7 +5,7 @@ end
 
 def actor(para)
 hash = para
-hash["name"]
+hash.name
 end
 
 def monopoly
