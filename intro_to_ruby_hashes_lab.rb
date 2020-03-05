@@ -4,8 +4,7 @@ hash
 end
 
 def actor(act)
-hash[:name] = act
-hash
+hash[:name]
 end
 
 def monopoly
