@@ -3,7 +3,7 @@ hash = {}
 hash
 end
 
-def actor(para)
+def actor
 hash[:name] = "Dwayne The Rock Johnson"
 end
 
